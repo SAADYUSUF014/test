@@ -1,12 +1,8 @@
+#!bin!
+:::::::||||::::::
+Get ip from target
+terget = ip -t.
+location = ip -t.
 
-lo = input("Enter name");
-print(lo)
-
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
+print("target")
+print("location")
