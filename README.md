@@ -1,2 +1,2 @@
 # •••• information hacking••••••
-Good
+Git clone https://$+$$++$+$.git
