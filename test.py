@@ -1,7 +1,7 @@
 #!bin!
 :::::::||||:::::
-terget = ip -t.
-location = ip -t.
+terget = ip -t
+location = ip -t
 
 print("target")
 print("location")
